@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Moore-Alvarez",
+        "address": "38318 James Pines\nPort Veronicashire, VT 10545",
+        "phone": "(223)457-5012x835",
+        "cuisine_type": "Japanese",
+        "email": "pottselizabeth@moran.com",
+        "rating": 4
+    },
+    {
+        "name": "Ford LLC",
+        "address": "98816 Owens Avenue Apt. 633\nEast Tracy, MP 10842",
+        "phone": "(261)905-4055",
+        "cuisine_type": "Indian",
+        "email": "garciasheryl@miller.com",
+        "rating": 3
+    },
+    {
+        "name": "Yang-Cole",
+        "address": "USCGC Berry\nFPO AP 66482",
+        "phone": "(670)460-0235x77066",
+        "cuisine_type": "Mexican",
+        "email": "andrewlove@dunn.com",
+        "rating": 3
+    },
+    {
+        "name": "Owens, Peters and Morgan",
+        "address": "06797 John Port Suite 250\nNew Juliestad, MD 65349",
+        "phone": "694.463.4337x4049",
+        "cuisine_type": "Mexican",
+        "email": "wendychapman@fisher-carroll.net",
+        "rating": 3
+    },
+    {
+        "name": "Gomez, Watts and Marshall",
+        "address": "8586 Williams Ferry Suite 894\nJameschester, KS 31447",
+        "phone": "+1-473-456-8713x91834",
+        "cuisine_type": "Japanese",
+        "email": "gregjones@bowers-cantrell.com",
+        "rating": 4
+    },
+    {
+        "name": "Fisher-Middleton",
+        "address": "584 Kathy Ranch\nAlisonton, OK 11673",
+        "phone": "(894)411-2830",
+        "cuisine_type": "Italian",
+        "email": "reeseandrew@walker.net",
+        "rating": 5
+    },
+    {
+        "name": "Lewis and Sons",
+        "address": "2773 Baker Center Suite 907\nSouth Taratown, WY 73052",
+        "phone": "001-666-396-9276",
+        "cuisine_type": "Indian",
+        "email": "williamthompson@thornton.info",
+        "rating": 4
+    },
+    {
+        "name": "Barnes-Ruiz",
+        "address": "9425 David Cape\nLake Maryhaven, MD 59391",
+        "phone": "304-804-5205x889",
+        "cuisine_type": "Chinese",
+        "email": "mannjonathan@callahan-fields.com",
+        "rating": 5
+    },
+    {
+        "name": "Brown-Duran",
+        "address": "36605 Kim Spurs Apt. 771\nWest Jamiehaven, OH 67692",
+        "phone": "2516413972",
+        "cuisine_type": "Indian",
+        "email": "elucero@barton.info",
+        "rating": 5
+    },
+    {
+        "name": "Frazier-Guerra",
+        "address": "4722 John Islands Suite 310\nJohnton, AZ 41383",
+        "phone": "001-762-529-8670x0606",
+        "cuisine_type": "Japanese",
+        "email": "jmiller@shaw.com",
+        "rating": 4
+    }
+]
