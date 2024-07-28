@@ -17,9 +17,10 @@
 body {
   margin: 0;
   display: flex;
-  place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  color: #ddc8a2;
+  background-color: rgb(3, 9, 21);
 }
 
 h1 {
@@ -34,6 +35,4 @@ h1 {
     color: #213547;
     background-color: #ffffff;
   }
-
-
 }
