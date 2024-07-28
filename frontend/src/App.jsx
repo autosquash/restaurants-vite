@@ -36,7 +36,7 @@ function App() {
                 <div>There is still no data</div>
             )}
             <footer>
-                <div>A project using Vite + React.</div>
+                <div>A project using Flask + Vite + React.</div>
             </footer>
         </>
     )
