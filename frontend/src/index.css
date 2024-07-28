@@ -16,11 +16,19 @@
 
 body {
   margin: 0;
-  display: flex;
+
   min-width: 320px;
   min-height: 100vh;
   color: #ddc8a2;
   background-color: rgb(3, 9, 21);
+}
+
+ul {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 16px;
+  padding: 16px;
+  list-style-type: none;
 }
 
 h1 {

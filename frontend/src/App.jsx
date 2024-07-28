@@ -22,7 +22,12 @@ function App() {
                     <ul>
                         {data.map((restaurant, index) => (
                             <li key={index}>
-                                {restaurant.name} ({restaurant.cuisine_type})
+                                <div className="card">
+                                    <h3 className="title">{restaurant.name}</h3>
+                                    Style: {restaurant.cuisine_type}
+                                    <br />
+                                    Phone: {restaurant.phone}
+                                </div>
                             </li>
                         ))}
                     </ul>
@@ -31,7 +36,7 @@ function App() {
                 <div>There is still no data</div>
             )}
             <footer>
-                <div className="card">A project using Vite + React.</div>
+                <div>A project using Vite + React.</div>
             </footer>
         </>
     )
