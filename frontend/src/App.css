@@ -9,3 +9,11 @@
 .card {
   padding: 2em;
 }
+
+li {
+  text-align: left;
+}
+
+footer {
+  color: gray;
+}
