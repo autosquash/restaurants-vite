@@ -21,7 +21,9 @@ function App() {
                     This is the current list of restaurants:
                     <ul>
                         {data.map((restaurant, index) => (
-                            <li key={index}>{restaurant.name}</li>
+                            <li key={index}>
+                                {restaurant.name} ({restaurant.cuisine_type})
+                            </li>
                         ))}
                     </ul>
                 </div>
